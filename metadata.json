@@ -1,0 +1,6 @@
+{
+  "name": "المهتدي للمقاولات",
+  "description": "تطبيق حسابات يومية وأجور العمال لشركة المهتدي للمقاولات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
